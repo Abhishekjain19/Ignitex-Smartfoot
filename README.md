@@ -56,7 +56,7 @@ SMARTFOOT aims to:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/VarunSugandhi/Smartfoot-Ignitex-BGS.git
-   cd Smartfoot-Ignitex-BGS
+   git clone https://github.com/Abhishekjain19/Ignitex-Smartfoot.git
+   cd Ignitex-Smartfoot
    npm install
    npm run dev
